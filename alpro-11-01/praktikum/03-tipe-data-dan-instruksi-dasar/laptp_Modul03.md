@@ -22,7 +22,7 @@ func main() {
 
 ##### Output
 <!-- Path relatif dari readme.md ke folder unguided/[nama_soal]/output.png, contoh: -->
-![Screenshot Output](../../../../screenshots/sisa.png)
+![Screenshot Output](/alpro-11-01/praktikum/03-tipe-data-dan-instruksi-dasar/images/sisa.png)
 
 
 
@@ -58,7 +58,7 @@ func main(){
 
 ##### Output
 <!-- Path relatif dari readme.md ke folder unguided/[nama_soal]/output.png, contoh: -->
-![Screenshot Output](../../../screenshots/konversi.png)
+![Screenshot Output](/alpro-11-01/praktikum/03-tipe-data-dan-instruksi-dasar/images/konversi.png)
 
 
 #### Deskripsi
@@ -90,7 +90,7 @@ func main() {
 
 ##### Output
 <!-- Path relatif dari readme.md ke folder unguided/[nama_soal]/output.png, contoh: -->
-![Screenshot Output](../../../../screenshots/bool.png)
+![Screenshot Output](/alpro-11-01/praktikum/03-tipe-data-dan-instruksi-dasar/images/bool.png)
 
 
 #### Deskripsi
