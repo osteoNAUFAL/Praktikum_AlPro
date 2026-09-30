@@ -5,4 +5,5 @@ Langkah-langkah:
 - Ambil lalu keluarkan bola tersebut
 3. Jika bola yang terambil bukan angka terkecil
 - Masukkan kembali bola kedalam kotak
-4. Jika bola sudah habis, maka program selesai
+4. Jika bola sudah habis, urutkan bola dari angka terkecil
+5. Selesai
