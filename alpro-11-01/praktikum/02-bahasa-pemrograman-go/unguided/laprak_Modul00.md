@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul [Nomor Modul] - [Judul Modul/Topik]</h1>
+# <h1 align="center">Laporan Praktikum Modul 2 - Bahasa Pemrograman GO</h1>
 <p align="center">Osteo Naufal Al Badi - 109092600010</p>
 
 ## Dasar Teori
